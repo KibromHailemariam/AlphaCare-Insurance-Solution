@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = C:\Users\HP 830 G6\Desktop\KAIM\week-3\storage
